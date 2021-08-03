@@ -28,3 +28,24 @@
 
 ## 🎙 Der neue AGOLUTION Podcast!
 [![Digital und vorgelesen](assets/img/Banner.jpg)](https://anchor.fm/digital-und-vorgelesen)
+<a href="https://podcasts.apple.com/de/podcast/digital-und-vorgelesen/id1570779207" target="_blank" rel="noopener noreferrer">
+    <img src="https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/apple_podcasts.png" srcset="https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/apple_podcasts.png 1x, https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/apple_podcasts@2x.png 2x" alt="Apple Podcasts Logo" height="28" width="28">
+</a>
+<a href="https://www.breaker.audio/digital-und-vorgelesen" target="_blank" rel="noopener noreferrer">
+    <img src="https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/breaker.png" srcset="https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/breaker.png 1x, https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/breaker@2x.png 2x" alt="Breaker Logo" height="28" width="28">
+</a>
+<a href="https://castbox.fm/channel/DIGITAL-UND-VORGELESEN-id4430816" target="_blank" rel="noopener noreferrer">
+    <img src="https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/castbox.png" srcset="https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/castbox.png 1x, https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/castbox@2x.png 2x" alt="Castbox Logo" height="28" width="28">
+</a>
+<a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81Y2NlZjVjMC9wb2RjYXN0L3Jzcw==" target="_blank" rel="noopener noreferrer" class="css-1z0xd9g">
+    <img src="https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/google_podcasts.png" srcset="https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/google_podcasts.png 1x, https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/google_podcasts@2x.png 2x" alt="Google Podcasts Logo" height="28" width="28">
+</a>
+<a href="https://pca.st/mjumvdma" target="_blank" rel="noopener noreferrer" class="css-1z0xd9g">
+    <img src="https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/pocket_casts.png" srcset="https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/pocket_casts.png 1x, https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/pocket_casts@2x.png 2x" alt="Pocket Casts Logo" height="28" width="28">
+</a>
+<a href="https://radiopublic.com/digital-und-vorgelesen-Gy2mpR" target="_blank" rel="noopener noreferrer">
+    <img src="https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/radiopublic.png" srcset="https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/radiopublic.png 1x, https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/radiopublic@2x.png 2x" alt="RadioPublic Logo" height="28" width="28">
+</a>
+<a href="https://open.spotify.com/show/4QHxjsg0J6jnDoRPVGKhbb" target="_blank" rel="noopener noreferrer" class="css-1z0xd9g">
+    <img src="https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/spotify.png" srcset="https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/spotify.png 1x, https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/spotify@2x.png 2x" alt="Spotify Logo" height="28" width="28">
+</a>
