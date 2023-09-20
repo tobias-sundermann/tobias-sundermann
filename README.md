@@ -2,7 +2,7 @@
 
 # Tobias Sundermann
 [![Xing](https://img.shields.io/badge/Xing-Tobias%20Sundermann-005a5f)](https://www.xing.com/profile/tobias_sundermann4)
-[![Instagram](https://img.shields.io/badge/Instagram-@tobias2378-E1306C)](https://www.instagram.com/tobias2378)
+[![Instagram](https://img.shields.io/badge/Instagram-@tobias2378-E1306C)](https://www.instagram.com/dj_darkblue)
 [![AGOLUTION](https://img.shields.io/badge/AGOLUTION-tobias.sundermann@agolution.com-00AEC7)](mailto:tobias.sundermann@agolution.com)
 
 </br>
