@@ -26,7 +26,7 @@
 
 </br>
 
-## 🎙 Der neue AGOLUTION Podcast!
+## 🎙 Der AGOLUTION Podcast!
 [![Digital und vorgelesen](assets/img/Banner.jpg)](https://anchor.fm/digital-und-vorgelesen)
 <a href="https://podcasts.apple.com/de/podcast/digital-und-vorgelesen/id1570779207" target="_blank" rel="noopener noreferrer">
     <img src="https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/apple_podcasts.png" srcset="https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/apple_podcasts.png 1x, https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/apple_podcasts@2x.png 2x" alt="Apple Podcasts Logo" height="28" width="28">
