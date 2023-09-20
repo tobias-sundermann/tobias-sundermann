@@ -19,10 +19,10 @@
 ## 📜 Erfahrung
 | | |
 | - | - |
-| <img src="assets/img/creative-cloud.svg" height="20"> <img src="assets/img/photoshop.svg" height="20"> <img src="assets/img/illustrator.svg" height="20"> <img src="assets/img/audition.svg" height="20"> <img src="assets/img/premiere.svg" height="20"> <img src="assets/img/aftereffects.svg" height="20"> <img src="assets/img/media-encoder.svg" height="20">|  ![Design](https://img.shields.io/badge/Adobe%20CC-4%20Jahre-00AEC7)  |
-| <img src="assets/img/Visual-Studio-Code.svg" height="20"> <img src="assets/img/NAV.svg" height="20"> | ![NAV/BC](https://img.shields.io/badge/NAV%2FBC-7%20Jahre-00AEC7) |
-| <img src="assets/img/Visual-Studio-Code.svg" height="20"> | ![Web](https://img.shields.io/badge/Webdesign-7,5%20Jahre-00AEC7) |
-| <img src="assets/img/fl-studio.svg" height="20"> <img src="assets/img/audition.svg" height="20"> | ![Web](https://img.shields.io/badge/Tonabmischung-5%20Jahre-00AEC7) |
+| <img src="assets/img/creative-cloud.svg" height="20"> <img src="assets/img/photoshop.svg" height="20"> <img src="assets/img/illustrator.svg" height="20"> <img src="assets/img/audition.svg" height="20"> <img src="assets/img/premiere.svg" height="20"> <img src="assets/img/aftereffects.svg" height="20"> <img src="assets/img/media-encoder.svg" height="20">|  ![Design](https://img.shields.io/badge/Adobe%20CC-6%20Jahre-00AEC7)  |
+| <img src="assets/img/Visual-Studio-Code.svg" height="20"> <img src="assets/img/NAV.svg" height="20"> | ![NAV/BC](https://img.shields.io/badge/NAV%2FBC-9%20Jahre-00AEC7) |
+| <img src="assets/img/Visual-Studio-Code.svg" height="20"> | ![Web](https://img.shields.io/badge/Webdesign-10%20Jahre-00AEC7) |
+| <img src="assets/img/fl-studio.svg" height="20"> <img src="assets/img/audition.svg" height="20"> | ![Web](https://img.shields.io/badge/Tonabmischung-10%20Jahre-00AEC7) |
 
 </br>
 
