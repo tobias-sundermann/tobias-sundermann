@@ -1,18 +1,14 @@
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
 
 # Tobias Sundermann
-[![Xing](https://img.shields.io/badge/Xing-Tobias%20Sundermann-005a5f)](https://www.xing.com/profile/tobias_sundermann4)
-[![Instagram](https://img.shields.io/badge/Instagram-@darkblue_dj-E1306C)](https://www.instagram.com/darkblue_dj)
-[![AGOLUTION](https://img.shields.io/badge/AGOLUTION-tobias.sundermann@agolution.com-00AEC7)](mailto:tobias.sundermann@agolution.com)
 
-</br>
 
 ## <img src="assets/img/agolution-icon.svg" height="18" width="20"> AGOLUTION [![Instagram](https://img.shields.io/badge/Instagram-@agolution-E1306C)](https://www.instagram.com/agolution)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Marketing </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Webdesign </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Grafikdesign </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Podcast
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - SEO
 
 </br>
 
@@ -27,6 +23,7 @@
 
 ## 🎙 Der AGOLUTION Podcast!
 [![Digital und vorgelesen](assets/img/Banner.jpg)](https://anchor.fm/digital-und-vorgelesen)
+
 <a href="https://podcasts.apple.com/de/podcast/digital-und-vorgelesen/id1570779207" target="_blank" rel="noopener noreferrer">
     <img src="https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/apple_podcasts.png" srcset="https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/apple_podcasts.png 1x, https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/apple_podcasts@2x.png 2x" alt="Apple Podcasts Logo" height="28" width="28">
 </a>
